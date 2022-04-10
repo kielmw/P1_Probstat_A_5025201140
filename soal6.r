@@ -12,7 +12,7 @@
   plot(z_score, type = 'p', col='blue') 
 
 # Soal 6B: Generate Histogram dari Distribusi Normal dengan breaks 50
-  hist(norm_dist_i,50,main = "5025201078_Rere Arga Dewanata_Probstat_D_DNhistogram ")
+  hist(norm_dist_i,50,main = "5025201140_Ezekiel Mashal Wicaksono_Probstat_D_DNhistogram ")
 
 # Soal 6C: Nilai Varian (σ²) dari hasil generate random nilai Distribusi Normal.
   std_dev_ii <- sd(norm_dist_i)

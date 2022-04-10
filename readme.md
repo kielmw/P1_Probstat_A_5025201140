@@ -186,7 +186,7 @@ Menggunakan fungsi mean untuk menghitung rata-rata dan fungsi var untuk menghitu
 ```
 #### 6.b. Membuat histogram distribusi chi-square
 ```r
-hist(norm_dist_i,50,main = "5025201078_Rere Arga Dewanata_Probstat_D_DNhistogram ")
+hist(norm_dist_i,50,main = "5025201140_Ezekiel Mashal Wicaksono_Probstat_D_DNhistogram ")
 ```
 #### 6.c. Nilai varian dapat dicari dengan `σ² = var(x)`
 ```r

@@ -3,7 +3,7 @@
 | 5025201140 | Ezekiel Mashal Wicaksono |
 
 ## Nomor 1
-Seorang penyurvei secara acak memilih orang-orang di jalan sampai dia bertemu dengan seseorang yang menghadiri acara vaksinasi sebelumnya.
+Seorang penyurvei secara acak memilih orang-orang di jalan sampai dia bertemu dengan seseorang yang menghadiri acara vaksinasi sebelumny.
 ### A
 ```r
 p = 0.20
